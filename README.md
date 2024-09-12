@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+STEPS TO RUN THE APPLICATION
+1. cd crud
+2. ng serve
+3. open the browser and navigate to http://localhost:4200/
